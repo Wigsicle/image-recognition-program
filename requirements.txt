@@ -1,0 +1,43 @@
+Installation
+tensorflow 2.7.0
+tensorboard 2.7.0
+streamlit 1.3.1
+
+Change Directory
+
+Inv3_app_model.py
+line85 <change directory>
+line86 <change directory>
+
+vgg16_app_model.py
+line 28 <change directory>
+
+cnn_app_model.py
+line 72 <change directory>
+line 73 <change directory>
+line 74 <change directory>
+line 114 <change directory>
+line 176 <change directory>
+
+detect.py
+line 29 <change directory>
+
+cnn_app.py
+line 32 <change directory>
+
+vgg16_app.py 
+line 20
+
+Inv3_app.py
+line 20
+
+Running
+Go to directory
+
+To train model: python name_app_model.py
+
+To run model: streamlit name_app.py
+
+
+
+
